@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNvd3MydnNsNnI1MnV1a212a2FheW92YmJ6b2ZuZ2tzNm0ydTI2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4yYBKoUue9UhB9tDM/giphy.gif" width="180"/>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGViZjVncTEwY2k4dHhra2Zwanhlcm12aTV0ajNxc2FsdnM1aDhzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkfG4aqCjm8WC9YjTC/giphy.gif" width="180"/>
     </td>
     <td>
       👋 Hi there!<br>
