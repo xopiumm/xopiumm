@@ -7,7 +7,6 @@
       👋 Hi there!<br>
       🌸 I'm Milana<br>
       👩🏽‍💻 Software Engineering student at ITMO university<br>
-      📍 Based in St. Petersburg<br>
       🤓 <span style="color: #fff; font-size: 20px;">Currently learning:</span><br>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" width="30" style="margin-right: 10px;" />
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="30" style="margin-right: 10px;" />
