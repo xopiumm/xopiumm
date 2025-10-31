@@ -7,15 +7,23 @@
       👋 Hi there!<br>
       🌸 I'm Milana<br>
       👩🏽‍💻 Software Engineering student at ITMO university<br>
-      🤓 <span style="color: #fff; font-size: 20px;">Currently learning:</span><br>
+      ✍️ <span style="color: #fff; font-size: 20px;">Currently learning:</span><br>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" width="30" style="margin-right: 10px;" />
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" width="30" style="margin-right: 10px;" />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" width="30" style="margin-right: 10px;" />
+      <br>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="30" style="margin-right: 10px;" />
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" style="margin-right: 10px;" />
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width="30" style="margin-right: 10px;" />
-    </td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="30" style="margin-right: 10px;" />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" width="30" style="margin-right: 10px;" />
+      <br>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" width="30" style="margin-right: 10px;" />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" width="30" style="margin-right: 10px;" />
+      <br>
+      <br><br>
     <td>
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xopiumm&theme=dracula&show_icons=true&locale=en&layout=compact" alt="xopiumm" /></p>
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xopiumm&theme=dracula&show_icons=true&locale=en&layout=donut" alt="xopiumm" /></p>
     </td>
   </tr>
 </table>
